@@ -106,4 +106,6 @@ This dashboard helps:
 - Derived actionable business insights from raw data  
 
 ---
+## 🚀 Live Dashboard
 
+👉 [Click here to view swiggy dashboard](https://app.fabric.microsoft.com/reportEmbed?reportId=7052651a-d351-4cec-a6cf-222e8f0ceb4f)
