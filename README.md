@@ -9,7 +9,7 @@ The dashboard provides a comprehensive view of sales performance, customer behav
 
 ## 📊 Dashboard Preview
 
-![Dashboard](screenshot/dashboard.png)
+![Dashboard](Screenshot/dashboard.png)
 
 ---
 
