@@ -108,4 +108,4 @@ This dashboard helps:
 ---
 ## 🚀 Live Dashboard
 
-👉 [Click here to view swiggy dashboard](https://app.fabric.microsoft.com/reportEmbed?reportId=7052651a-d351-4cec-a6cf-222e8f0ceb4f)
+👉 [Click here to view swiggy dashboard](https://app.fabric.microsoft.com/groups/eef45adb-c125-45b1-9caa-75873cedf12b/reports/7052651a-d351-4cec-a6cf-222e8f0ceb4f?ctid=7b4526cc-afdf-4940-82d6-e51fd9b7d59d&pbi_source=linkShare)
